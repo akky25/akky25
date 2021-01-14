@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akky25)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=akky25&layout=compact)
 
 <!--
 **akky25/akky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
